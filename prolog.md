@@ -1,6 +1,7 @@
+
 https://swish.swi-prolog.org/p/Hangout.swinb
 
-``
+```
 /*
 :- if
 . encerra regra
@@ -54,4 +55,4 @@ irmaos(X,joana)
 
 
 irmas(J,lucia)
-``
+```
