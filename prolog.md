@@ -1,6 +1,12 @@
 https://swish.swi-prolog.org/p/Hangout.swinb
 
-
+``
+/*
+:- if
+. encerra regra
+, and
+; or
+*/
 homem(cesar).
 homem(davi).
 homem(paulo).
@@ -27,3 +33,4 @@ irmaos(X,joana)
 
 
 irmas(J,lucia)
+``
